@@ -12,9 +12,9 @@ ___
 
 ### Socials
 
-[![Tryhackme](https://tryhackme.com/badge/930051)]
-[![HacktheBox](https://app.hackthebox.com/badge/image/927454)]
-[![Twitter](https://twitter.com/0Dayhta)]
+[Tryhackme](https://tryhackme.com/badge/930051)
+[HacktheBox](https://app.hackthebox.com/badge/image/927454)
+[Twitter](https://twitter.com/0Dayhta)
 
 ___
 
