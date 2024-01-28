@@ -1,8 +1,8 @@
-###🤓👋  Tech nerd first - Cybersecuity second
+### 🤓👋  Tech nerd first - Cybersecuity second
 ___
 
 
-Hello! I am Dayhta / Devin
+#### Hello! I am Dayhta / Devin
 
 I really love all things technology so you might catch me doing something here thats not Cybersecurity related. 
 
