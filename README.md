@@ -11,9 +11,8 @@ I just wanna make cool projects for the community 😟
 ___
 
 ### Socials
-
-Tryhackme:\n
  <img src="https://tryhackme-badges.s3.amazonaws.com/Dayhta.png" alt="TryHackMe">
+ 
 [HacktheBox](https://app.hackthebox.com/badge/image/927454)
 [Twitter](https://twitter.com/0Dayhta)
 
