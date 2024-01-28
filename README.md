@@ -1,16 +1,21 @@
-### Hi there 👋
+###🤓👋  Tech nerd first - Cybersecuity second
+___
 
-<!--
-**Dayhta/Dayhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! I am Dayhta / Devin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I really love all things technology so you might catch me doing something here thats not Cybersecurity related. 
+
+I just wanna make cool projects for the community 😟
+
+___
+
+### Socials
+
+[![Tryhackme](https://tryhackme.com/badge/930051)]
+[![HacktheBox](https://app.hackthebox.com/badge/image/927454)]
+[![Twitter](https://twitter.com/0Dayhta)]
+
+___
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dayhta&theme=dark&mode=weekly)](https://git.io/streak-stats)
