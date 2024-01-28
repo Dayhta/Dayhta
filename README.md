@@ -1,4 +1,4 @@
-### 🤓👋  Tech nerd first - Cybersecuity second
+### 🤓👋  Tech nerd first - Cybersecurity second
 ___
 
 
